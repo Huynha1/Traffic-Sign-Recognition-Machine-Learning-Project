@@ -1,0 +1,17 @@
+ImgPath,Shape,Type
+./independent_dataset/bicycle.png,round,bicycle
+./independent_dataset/continue.png,square,continue
+./independent_dataset/crossing.png,square,crossing
+./independent_dataset/giveway.png,triangle,giveway
+./independent_dataset/laneend.png,square,laneend
+./independent_dataset/limitedtraffic.png,round,limitedtraffic
+./independent_dataset/noentry.png,round,noentry
+./independent_dataset/noparking.png,round,noparking
+./independent_dataset/parking.png,square,parking
+./independent_dataset/rightofway.png,diamond,rightofway
+./independent_dataset/roundabout.png,round,roundabout
+./independent_dataset/speed.png,round,speed
+./independent_dataset/stop.png,hex,stop
+./independent_dataset/trafficdirective.png,round,trafficdirective
+./independent_dataset/traveldirection.png,round,traveldirection
+./independent_dataset/warning.png,triangle,warning
